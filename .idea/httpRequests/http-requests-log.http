@@ -1,0 +1,109 @@
+GET http://localhost:8762/rabbitHi
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8762/rabbitHi
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8762/rabbitHi
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8762/rabbitHi
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+Content-Type:
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T091030.415.json
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+Content-Type:
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+Content-Type:
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+Content-Type:
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+Content-Type:
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+Content-Type: multipart/form-data
+
+<> 2019-02-27T082037.500.json
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2019-02-27T081935.415.json
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T081553.415.json
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T081551.415.json
+
+###
+
+POST http://localhost:8882/actuator/bus-refresh
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T081442.415.json
+
+###
+

@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-02-27T12:20:37.153+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Failed to parse multipart servlet request; nested exception is java.io.IOException: org.apache.tomcat.util.http.fileupload.FileUploadException: the request was rejected because no multipart boundary was found",
+  "path": "/actuator/bus-refresh"
+}
