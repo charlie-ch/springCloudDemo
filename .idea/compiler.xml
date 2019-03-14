@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="demo" />
         <module name="eureka-server" />
         <module name="service-feign" />
         <module name="service-hi" />

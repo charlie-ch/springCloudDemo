@@ -41,3 +41,13 @@ m
 =service-hi/src/main/java/com/cheng/rabbitmq/HelloSender1.java,8\7\8795a99cca22a42756d4e6d4d54dd91f457793e6
 o
 ?service-feign/src/main/java/com/app/rabbitmq/HelloReciever.java,8\0\80cdc97b7a59a5e858a5a152385629f49b12aeb8
+<
+demo/pom.xml,f\1\f1bf400bc0784549511ea07030d3a798eb8c0511
+U
+%demo/src/main/java/MyClassLoader.java,f\7\f7359a72291ef41a04361deeb19e6f071befaf9c
+M
+demo/src/main/java/Test3.java,e\5\e525d957e6425dddedfda12438d9d894782aec5f
+M
+demo/src/main/java/Test1.java,0\b\0bbe1b6cff46f90f97bb91bae4ec5c22052bee50
+M
+demo/src/main/java/Test2.java,6\0\6044d1035b9e58689751efe8c9e21ffa43b58039
